@@ -1,4 +1,4 @@
-# FiveM AntiCheat by Tigo | Version 2.0 BETA
+# Home
 ![FiveM Mustache](https://i.imgur.com/xulDluF.jpg)
 
 > A resource that detects different types of cheating
@@ -13,7 +13,7 @@ TigoAntiCheat is a resource written in Lua for detecting cheaters. Because many 
 - Mustache | [GitHub](https://github.com/TigoDevelopment/FiveM-Mustache) or [FiveM Forum](https://forum.cfx.re/t/fivem-mustache-logic-less-mustache-templates-in-fivem-lua/1159921)
 
 ## Installation
-To install TigoAntiCheat correctly, read the docs on [Read the Docs (.io)](https://tigoanticheat.readthedocs.io/)
+To install TigoAntiCheat correctly, read the installation guide [Read the Guide](https://tigoanticheat.readthedocs.io/en/latest/installation/)
 
 ## Download
 Download the latest version on [GitHub Releases](https://github.com/TigoDevelopment/TigoAntiCheat/releases)
